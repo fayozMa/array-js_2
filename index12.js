@@ -1,4 +1,4 @@
-// uyga vazifaqismi 5-vazifa
+// uyga vazifa qismi 5-vazifa
 
 let arr = [4, 5, 7, 8, 6, 9]
 let evenArr = []
@@ -11,6 +11,7 @@ for ( let value of arr){
         primeArr.push(value)
     }
 }
-console.log(evenArr.concat(primeArr.reverse()));
+let result = evenArr.concat(primeArr.reverse())
+console.log(result.join(' '));
 
 

@@ -1,4 +1,4 @@
-// uyga vazifaqismi 4-vazifa
+// uyga vazifa qismi 4-vazifa
 
 let arr = [4, 5, 7, 8, 6, 9]
 let answer = ''

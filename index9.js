@@ -1,4 +1,4 @@
-// uyga vazifaqismi 2-vazifa
+// uyga vazifa qismi 2-vazifa
 
 let n = 5
 let a = 2
